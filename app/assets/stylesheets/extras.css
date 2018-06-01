@@ -1,0 +1,14 @@
+.pokemon-image {
+  background: antiquewhite;
+  border-radius: 500px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+.pokemon-list {
+  display: flex;
+  width: 59%;
+  flex-wrap: wrap;
+  margin: auto;
+}
